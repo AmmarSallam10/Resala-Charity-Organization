@@ -1,0 +1,18 @@
+body{
+   background-image: url('img/pexels-artem-podrez-7048048.jpg');
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: x-large;
+    text-align: center;
+}
+h5{
+    color: red;
+    text-align: center;
+}
+
